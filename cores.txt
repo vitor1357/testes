@@ -2,6 +2,7 @@ azul
 vermelho
 verde
 amarelo
+maça
 violeta
 laranja
-esse sao exemplos de cores
+esse sao exemplos de cores e de frutas
