@@ -1,0 +1,5 @@
+azul
+vermelho
+amarelo
+violeta
+esse sao exemplos de cores
