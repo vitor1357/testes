@@ -1,5 +1,6 @@
 azul
 vermelho
+verde
 amarelo
 violeta
 esse sao exemplos de cores
