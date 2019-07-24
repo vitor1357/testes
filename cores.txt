@@ -3,4 +3,5 @@ vermelho
 verde
 amarelo
 violeta
+laranja
 esse sao exemplos de cores
